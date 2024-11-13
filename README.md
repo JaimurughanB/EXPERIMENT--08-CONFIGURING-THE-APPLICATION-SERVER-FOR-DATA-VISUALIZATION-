@@ -1,3 +1,5 @@
+## NAME-JAIMURUGHAN.B
+## REG NO-212222113001
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
@@ -28,8 +30,13 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 ## OUTPUT 
- 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+ ![Screenshot 2024-11-13 112538](https://github.com/user-attachments/assets/e501a8be-e6e9-47b7-97c4-8a604bd16f06)
+ ![Screenshot 2024-11-13 112616](https://github.com/user-attachments/assets/1be6ae2f-2f69-40c7-b753-7d4ac10d91d4)
+ ![Screenshot 2024-11-13 113441](https://github.com/user-attachments/assets/00727347-4147-4137-ab76-4224b32a02f0)
+
+
+
+
 
 
 
